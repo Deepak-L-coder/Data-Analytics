@@ -34,7 +34,8 @@ The dataset contains various features related to customer demographics, purchase
 
 This project offers a comprehensive look at customer segmentation, providing valuable insights into customer behavior and preferences. These insights can drive targeted marketing efforts, enhance customer satisfaction, and ultimately lead to increased business success.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+================================================================================================================================================================
 
 
 # Project 2 : House Prices Analysis
@@ -72,3 +73,57 @@ Key insights obtained from the dataset include:
 - **Price Distribution**: Analysis of how house prices are distributed.
 - **Feature Relationships**: Investigation of correlations between house features and prices.
 - **Predictive Modeling**: A linear regression model to predict house prices based on various features, evaluated using metrics like mean squared error.
+
+
+===========================================================================================================================================================
+
+
+# Project 3 :Retail Sales Data Analysis
+
+## Project Overview
+
+This project involves the analysis of a retail sales dataset to uncover insights into customer spending behavior, product performance, and overall sales trends. The analysis was conducted using Python, utilizing libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, statistical analysis, and visualization.
+
+### Objectives
+
+- **Understand the Data:** Explore the dataset to understand its structure and contents.
+- **Handle Missing Data:** Identify and manage any missing values in the dataset to ensure accurate analysis.
+- **Statistical Analysis:** Perform statistical analysis to derive key metrics like mean, median, mode, and standard deviation.
+- **Data Visualization:** Create visualizations to identify patterns and trends in the data.
+- **Correlation Analysis:** Explore relationships between different variables in the dataset.
+- **Product and Price Analysis:** Assess product performance and analyze the impact of pricing on sales.
+
+## Data Insights
+
+### 1. Customer Spending
+- The average spending per customer was calculated, providing insights into the purchasing behavior of the customer base.
+
+### 2. Sales Statistics
+- Key statistics such as mean, median, mode, and standard deviation were derived for total sales amounts, helping to understand the central tendency and variability in the sales data.
+
+### 3. Product Performance
+- **Total Sales by Product Category:** 
+  - A bar chart visualized total sales by product category, revealing the top-performing categories.
+- **Inventory Turnover:** 
+  - The analysis identified product categories with the lowest inventory turnover, highlighting areas for potential improvement in sales strategies.
+
+### 4. Gender and Age Analysis
+- A line plot examined average purchases by gender, offering a demographic perspective on customer behavior.
+
+### 5. Correlation Analysis
+- A correlation matrix was plotted to assess relationships between variables such as age, quantity purchased, and total amount spent.
+
+### 6. Price Sensitivity
+- The relationship between price per unit and total sales was analyzed, providing insights into how pricing strategies might impact sales volumes.
+
+## Tools and Technologies Used
+
+- **Python:** For data processing and analysis.
+- **Pandas:** For data manipulation and analysis.
+- **NumPy:** For numerical computations.
+- **Matplotlib & Seaborn:** For data visualization.
+
+
+## Conclusion
+
+This analysis provided valuable insights into customer behavior, product performance, and pricing strategies. The visualizations and statistical analyses can serve as a basis for making data-driven decisions to enhance retail sales performance.
