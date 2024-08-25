@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Project 1 : Customer Segmentation Analysis
 
 ## Introduction
 
@@ -34,3 +34,41 @@ The dataset contains various features related to customer demographics, purchase
 
 This project offers a comprehensive look at customer segmentation, providing valuable insights into customer behavior and preferences. These insights can drive targeted marketing efforts, enhance customer satisfaction, and ultimately lead to increased business success.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Project 2 : House Prices Analysis
+
+## Project Overview
+This project analyzes a housing dataset to uncover factors that influence house prices. It involves data preprocessing, exploratory data analysis, and predictive modeling using linear regression.
+
+## Dataset
+The dataset contains the following features related to houses:
+
+- **price**: The selling price of the house.
+- **area**: The size of the house in square feet.
+- **bedrooms**: The number of bedrooms.
+- **bathrooms**: The number of bathrooms.
+- **stories**: The number of stories in the house.
+- **mainroad**: Whether the house is located on the main road (`yes`/`no`).
+- **guestroom**: Presence of a guest room (`yes`/`no`).
+- **basement**: Presence of a basement (`yes`/`no`).
+- **hotwaterheating**: Whether the house has hot water heating (`yes`/`no`).
+- **airconditioning**: Whether the house has air conditioning (`yes`/`no`).
+- **parking**: The number of parking spaces.
+- **prefarea**: Whether the house is in a preferred area (`yes`/`no`).
+- **furnishingstatus**: The furnishing status of the house (`furnished`, `semi-furnished`, `unfurnished`).
+
+## Dependencies
+The project requires the following Python libraries:
+- **Python 3.x**
+- **Pandas**: `pip install pandas`
+- **NumPy**: `pip install numpy`
+- **Matplotlib**: `pip install matplotlib`
+- **Scikit-learn**: `pip install scikit-learn`
+
+## Data Insights
+Key insights obtained from the dataset include:
+- **Price Distribution**: Analysis of how house prices are distributed.
+- **Feature Relationships**: Investigation of correlations between house features and prices.
+- **Predictive Modeling**: A linear regression model to predict house prices based on various features, evaluated using metrics like mean squared error.
